@@ -1,0 +1,3 @@
+# Project exclude paths
+/simple-message-consumer-demo/target/
+/simple-message-producer-demo/target/
